@@ -1,0 +1,11 @@
+{
+  "name": "Twitch AD Free Redirect",
+  "version": "1.0",
+  "description": "Easily Redirect to an AD Free Twitch Experience",
+  "manifest_version": 2,
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_icon": "twitch-ad-logo.png",
+    "default_popup": "popup.html"
+  }
+}
